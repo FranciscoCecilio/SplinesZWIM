@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SplinesZwimProject-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZwimProject/Intermediate/Build/Win64/x64/SplinesZwimProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZwimProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplinesZwimProject/Module.SplinesZwimProject.gen.cpp.obj"
+"C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZwimProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplinesZwimProject/SplineActor.cpp.obj"
+"C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZwimProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplinesZwimProject/SplineMover.cpp.obj"
+"C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZwimProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplinesZwimProject/SplinesZwimProject.cpp.obj"
+"C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZwimProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplinesZwimProject/PerModuleInline.gen.cpp.obj"
+"C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZwimProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplinesZwimProject/Default.rc2.res"
+/OUT:"C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZwimProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/SplinesZwimProject/UnrealEditor-SplinesZwimProject-0001.lib"

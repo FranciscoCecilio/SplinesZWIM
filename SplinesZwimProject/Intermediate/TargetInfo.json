@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SplinesZwimProject",
+			"Path": "..\\Source\\SplinesZwimProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SplinesZwimProjectEditor",
+			"Path": "..\\Source\\SplinesZwimProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
