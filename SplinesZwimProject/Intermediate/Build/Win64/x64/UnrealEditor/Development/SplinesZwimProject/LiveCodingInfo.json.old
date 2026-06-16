@@ -3,6 +3,7 @@
 	{
 		"Module.SplinesZwimProject.gen.cpp.obj": [
 			"SplineActor.gen.cpp.obj",
+			"SplineMover.gen.cpp.obj",
 			"SplinesZwimProject.init.gen.cpp.obj"
 		]
 	}

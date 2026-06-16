@@ -1,8 +1,7 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
+#include "SplineActor.h"
 #include "GameFramework/Actor.h"
 #include "SplineMover.generated.h"
 
@@ -12,28 +11,49 @@ class SPLINESZWIMPROJECT_API ASplineMover : public AActor
 	GENERATED_BODY()
 	
 public:	
-	// Sets default values for this actor's properties
 	ASplineMover();
 
 protected:
-	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 public:	
-	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(EditInstanceOnly, Category = "Spline Movement")
+	TObjectPtr<ASplineActor> TargetSpline;
+
 	UPROPERTY(EditAnywhere, Category = "Spline Movement")
-	float Speed = 200.f;
+	float MaxSpeed = 300.f;
+
+	UPROPERTY(EditAnywhere, Category = "Spline Movement")
+	float Acceleration = 150.f;
 
 	UPROPERTY(EditAnywhere, Category = "Spline Movement")
 	bool bLoop = true;
 
-	UPROPERTY(EditAnywhere, Category = "Spline Movement")
-	float Acceleration = 150.f; // bonus: smooth accel
 
+	UFUNCTION(BlueprintCallable, Category = "Spline Movement")
 	void StartMoving();
+
+	UFUNCTION(BlueprintCallable, Category = "Spline Movement")
 	void StopMoving();
+
+	UFUNCTION(BlueprintCallable, Category = "Spline Movement")
+	void SetSpeed(float NewSpeed);
+
+	UFUNCTION(BlueprintCallable, Category = "Spline Movement")
+	void SetLooping(bool bShouldLoop);
+
+	UFUNCTION(BlueprintCallable, Category = "Spline Movement")
 	void SetDirection(float InDirection); // +1 / -1
 
+	UFUNCTION(BlueprintPure, Category = "Spline Movement")
+	float GetProgressAlpha() const;
+
+
+private:
+	float CurrentDistance = 0.f;
+	float CurrentSpeed = 0.f;
+	bool bIsMoving = false;
+	float Direction = 1.f;
 };

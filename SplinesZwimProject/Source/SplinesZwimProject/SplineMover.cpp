@@ -3,25 +3,81 @@
 
 #include "SplineMover.h"
 
-// Sets default values
 ASplineMover::ASplineMover()
 {
- 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
 }
 
-// Called when the game starts or when spawned
 void ASplineMover::BeginPlay()
 {
 	Super::BeginPlay();
 	
 }
 
-// Called every frame
 void ASplineMover::Tick(float DeltaTime)
 {
-	Super::Tick(DeltaTime);
+    Super::Tick(DeltaTime);
 
+    if (!bIsMoving || !TargetSpline) return;
+
+    USplineComponent* Spline = TargetSpline->Spline;
+
+    // Smooth acceleration
+    CurrentSpeed = FMath::FInterpTo(CurrentSpeed, MaxSpeed, DeltaTime, Acceleration / MaxSpeed);
+
+    float SplineLength = Spline->GetSplineLength();
+    CurrentDistance += CurrentSpeed * Direction * DeltaTime;
+
+    // Loop handling
+    if (bLoop)
+    {
+        if (CurrentDistance > SplineLength) CurrentDistance -= SplineLength;
+        if (CurrentDistance < 0.f)          CurrentDistance += SplineLength;
+    }
+    else
+    {
+        CurrentDistance = FMath::Clamp(CurrentDistance, 0.f, SplineLength);
+        if (CurrentDistance >= SplineLength || CurrentDistance <= 0.f) StopMoving();
+    }
+
+    // Position + rotation along spline
+    FVector  NewLocation = Spline->GetLocationAtDistanceAlongSpline(CurrentDistance, ESplineCoordinateSpace::World);
+    FRotator NewRotation = Spline->GetRotationAtDistanceAlongSpline(CurrentDistance, ESplineCoordinateSpace::World);
+
+    SetActorLocationAndRotation(NewLocation, NewRotation);
 }
+
+void ASplineMover::StartMoving() 
+{ 
+    bIsMoving = true;
+}
+
+void ASplineMover::StopMoving()
+{
+    bIsMoving = false;
+    CurrentSpeed = 0.f; // resets so accel kicks in fresh on next Start
+}
+
+float ASplineMover::GetProgressAlpha() const
+{
+    if (!TargetSpline) return 0.f;
+    return CurrentDistance / TargetSpline->Spline->GetSplineLength();
+}
+
+void ASplineMover::SetSpeed(float NewSpeed)
+{
+    CurrentSpeed = NewSpeed;
+}
+
+void ASplineMover::SetLooping(bool bShouldLoop)
+{
+    bLoop = bShouldLoop;
+}
+
+void ASplineMover::SetDirection(float InDirection)
+{
+    Direction = InDirection;
+}
+
 

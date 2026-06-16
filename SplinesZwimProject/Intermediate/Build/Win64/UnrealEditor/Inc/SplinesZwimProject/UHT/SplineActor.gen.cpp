@@ -60,12 +60,18 @@ struct Z_Construct_UClass_ASplineActor_Statics
 		{ "ModuleRelativePath", "SplineActor.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Spline_MetaData[] = {
-		{ "Category", "SplineActor" },
+		{ "Category", "Spline" },
 		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "SplineActor.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bIsSpline_MetaData[] = {
+		{ "Category", "SplineActor" },
 		{ "ModuleRelativePath", "SplineActor.h" },
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_Spline;
+	static void NewProp_bIsSpline_SetBit(void* Obj);
+	static const UECodeGen_Private::FBoolPropertyParams NewProp_bIsSpline;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -73,9 +79,15 @@ struct Z_Construct_UClass_ASplineActor_Statics
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
-const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ASplineActor_Statics::NewProp_Spline = { "Spline", nullptr, (EPropertyFlags)0x00100000000a0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ASplineActor, Spline), Z_Construct_UClass_USplineComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Spline_MetaData), NewProp_Spline_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ASplineActor_Statics::NewProp_Spline = { "Spline", nullptr, (EPropertyFlags)0x01140000000a001d, UECodeGen_Private::EPropertyGenFlags::Object | UECodeGen_Private::EPropertyGenFlags::ObjectPtr, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ASplineActor, Spline), Z_Construct_UClass_USplineComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Spline_MetaData), NewProp_Spline_MetaData) };
+void Z_Construct_UClass_ASplineActor_Statics::NewProp_bIsSpline_SetBit(void* Obj)
+{
+	((ASplineActor*)Obj)->bIsSpline = 1;
+}
+const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_ASplineActor_Statics::NewProp_bIsSpline = { "bIsSpline", nullptr, (EPropertyFlags)0x0010000000000001, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(ASplineActor), &Z_Construct_UClass_ASplineActor_Statics::NewProp_bIsSpline_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_bIsSpline_MetaData), NewProp_bIsSpline_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ASplineActor_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASplineActor_Statics::NewProp_Spline,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASplineActor_Statics::NewProp_bIsSpline,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ASplineActor_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_ASplineActor_Statics::DependentSingletons[])() = {
@@ -111,14 +123,14 @@ ASplineActor::~ASplineActor() {}
 // ********** End Class ASplineActor ***************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_franc_Documents_Unreal_Projects_ZWIM_SplinesZwimProject_Source_SplinesZwimProject_SplineActor_h__Script_SplinesZwimProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_franc_Documents_Unreal_Projects_ZWIM_SplinesZWIM_SplinesZwimProject_Source_SplinesZwimProject_SplineActor_h__Script_SplinesZwimProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ASplineActor, ASplineActor::StaticClass, TEXT("ASplineActor"), &Z_Registration_Info_UClass_ASplineActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASplineActor), 4125706586U) },
+		{ Z_Construct_UClass_ASplineActor, ASplineActor::StaticClass, TEXT("ASplineActor"), &Z_Registration_Info_UClass_ASplineActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASplineActor), 3317631342U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_franc_Documents_Unreal_Projects_ZWIM_SplinesZwimProject_Source_SplinesZwimProject_SplineActor_h__Script_SplinesZwimProject_1994023609(TEXT("/Script/SplinesZwimProject"),
-	Z_CompiledInDeferFile_FID_Users_franc_Documents_Unreal_Projects_ZWIM_SplinesZwimProject_Source_SplinesZwimProject_SplineActor_h__Script_SplinesZwimProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_franc_Documents_Unreal_Projects_ZWIM_SplinesZwimProject_Source_SplinesZwimProject_SplineActor_h__Script_SplinesZwimProject_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_franc_Documents_Unreal_Projects_ZWIM_SplinesZWIM_SplinesZwimProject_Source_SplinesZwimProject_SplineActor_h__Script_SplinesZwimProject_3748812195(TEXT("/Script/SplinesZwimProject"),
+	Z_CompiledInDeferFile_FID_Users_franc_Documents_Unreal_Projects_ZWIM_SplinesZWIM_SplinesZwimProject_Source_SplinesZwimProject_SplineActor_h__Script_SplinesZwimProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_franc_Documents_Unreal_Projects_ZWIM_SplinesZWIM_SplinesZwimProject_Source_SplinesZwimProject_SplineActor_h__Script_SplinesZwimProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
