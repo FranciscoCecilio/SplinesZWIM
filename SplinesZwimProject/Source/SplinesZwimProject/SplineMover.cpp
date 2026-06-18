@@ -1,6 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
 #include "SplineMover.h"
 
 ASplineMover::ASplineMover()
@@ -12,7 +9,7 @@ ASplineMover::ASplineMover()
 void ASplineMover::BeginPlay()
 {
 	Super::BeginPlay();
-	
+    CurrentDistance = StartDistance;
 }
 
 void ASplineMover::Tick(float DeltaTime)
@@ -77,7 +74,10 @@ void ASplineMover::SetLooping(bool bShouldLoop)
 
 void ASplineMover::SetDirection(float InDirection)
 {
-    Direction = InDirection;
+    float NewDir = FMath::Sign(InDirection);
+    if (NewDir == Direction) return; // no change, skip
+    Direction = NewDir;
+    OnDirectionChanged.Broadcast(Direction);
 }
 
 
