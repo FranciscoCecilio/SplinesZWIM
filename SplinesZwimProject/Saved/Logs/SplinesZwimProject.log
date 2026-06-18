@@ -1946,3 +1946,364 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.18-01.16.58:320][598]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 993.089355
 [2026.06.18-01.16.59:319][601]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.18-01.16.59:319][601]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 993.755615, Update Interval: 315.366669
+[2026.06.18-01.19.15:291][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.18-01.19.15:352][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/4/LQ/1Q5MRX8MUEAJRK8QML8L0K
+[2026.06.18-01.19.15:353][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/1Q5MRX8MUEAJRK8QML8L0K7A820C354FBAEE04E5D0D1A19448F910.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/4/LQ/1Q5MRX8MUEAJRK8QML8L0K.uasset'
+[2026.06.18-01.19.15:361][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/0/3U/UW88GH79WK1GI58MFGBT71
+[2026.06.18-01.19.15:363][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/UW88GH79WK1GI58MFGBT71E92A4C3B4A23C25516FFB8A18242E513.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/0/3U/UW88GH79WK1GI58MFGBT71.uasset'
+[2026.06.18-01.19.15:371][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/B/9Z/NL5KO6PBH42PVF0ZAO2EPG
+[2026.06.18-01.19.15:372][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/NL5KO6PBH42PVF0ZAO2EPG41E52B08472DA6828C12888BCF238288.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/B/9Z/NL5KO6PBH42PVF0ZAO2EPG.uasset'
+[2026.06.18-01.19.15:379][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/1/PQ/8RQAG6X0QUW3QFLOOAJ99K
+[2026.06.18-01.19.15:380][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/8RQAG6X0QUW3QFLOOAJ99KAE6298E349DF023BE0B0B49C8CF069E4.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/1/PQ/8RQAG6X0QUW3QFLOOAJ99K.uasset'
+[2026.06.18-01.19.15:388][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/C/2L/MXHR1WFNZOWZ9LCO57LYJ8
+[2026.06.18-01.19.15:389][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/MXHR1WFNZOWZ9LCO57LYJ846B9A8F647D9E5FB35A460AC1D6AB45D.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/C/2L/MXHR1WFNZOWZ9LCO57LYJ8.uasset'
+[2026.06.18-01.19.15:396][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/1/5I/DTW8UR553TW6ARE0J5MHL3
+[2026.06.18-01.19.15:396][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/DTW8UR553TW6ARE0J5MHL3950122CE4221D7BC931934B18204D01B.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/1/5I/DTW8UR553TW6ARE0J5MHL3.uasset'
+[2026.06.18-01.19.15:403][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/6/RT/XH0BHC3GVLKG3DKN2Z1OSC
+[2026.06.18-01.19.15:404][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/XH0BHC3GVLKG3DKN2Z1OSC92F1ABA44CE572B3DE24FEB1C9C4472B.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/6/RT/XH0BHC3GVLKG3DKN2Z1OSC.uasset'
+[2026.06.18-01.19.15:411][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/5/3T/MX9S52JK2XU5V3FCN1B09T
+[2026.06.18-01.19.15:412][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/MX9S52JK2XU5V3FCN1B09TECEED3C7478A33B9E0757091E7613324.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/5/3T/MX9S52JK2XU5V3FCN1B09T.uasset'
+[2026.06.18-01.19.15:419][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/0/OM/TUWH9CKS75JHN037ABLO8P
+[2026.06.18-01.19.15:419][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/TUWH9CKS75JHN037ABLO8P17BEB32F4AF9AE9C255628AA55CC8CA2.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/0/OM/TUWH9CKS75JHN037ABLO8P.uasset'
+[2026.06.18-01.19.15:428][662]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/SplinesLvl/6/GD/LWBV1BHFBQR5LK8Q8H81M4
+[2026.06.18-01.19.15:429][662]LogSavePackage: Moving '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/LWBV1BHFBQR5LK8Q8H81M4D8988B4E45D724C00910B590F73151E2.tmp' to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Content/__ExternalActors__/Maps/SplinesLvl/6/GD/LWBV1BHFBQR5LK8Q8H81M4.uasset'
+[2026.06.18-01.19.15:438][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.091 ms (total: 735.637 ms)
+[2026.06.18-01.19.15:492][662]LogContentValidation: Display: Starting to validate 10 assets
+[2026.06.18-01.19.15:493][662]LogContentValidation: Enabled validators:
+[2026.06.18-01.19.15:493][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.18-01.19.15:493][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.18-01.19.15:493][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.18-01.19.15:493][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.18-01.19.15:493][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.18-01.19.15:493][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.18-01.19.15:493][662]AssetCheck: /Game/Maps/SplinesLvl Validating asset
+[2026.06.18-01.19.15:509][662]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.18-01.19.18:895][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.06.18-01.19.22:840][950]LogTurnkeySupport: Selected target: SplinesZwimProject
+[2026.06.18-01.19.22:845][950]LogLauncherProfile: Unable to use promoted target - receipt ../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Binaries/Win64/SplinesZwimProject.target is not for a promoted target
+[2026.06.18-01.19.22:869][950]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/SplinesZwimProject.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=58901  -project="C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/SplinesZwimProject.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/SplinesZwimProject.uproject" -target=SplinesZwimProject  -unrealexe="C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/franc/Documents/Unreal Projects/ZWIM/Build" -clientconfig=Development" -nocompile -nocompileuat ]
+[2026.06.18-01.19.22:878][950]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.18-01.19.22:921][950]UATHelper: Packaging (Windows): Running AutomationTool...
+[2026.06.18-01.19.23:016][952]UATHelper: Packaging (Windows): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.06.18-01.19.23:123][955]UATHelper: Packaging (Windows): Starting AutomationTool...
+[2026.06.18-01.19.23:134][955]UATHelper: Packaging (Windows): Parsing command line: -ScriptsForProject="C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/SplinesZwimProject.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=58901 -project="C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/SplinesZwimProject.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project="C:/Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/SplinesZwimProject.uproject" -target=SplinesZwimProject -unrealexe="C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/franc/Documents/Unreal Projects/ZWIM/Build" -clientconfig=Development -nocompile -nocompileuat
+[2026.06.18-01.19.23:261][962]UATHelper: Packaging (Windows): Initializing script modules...
+[2026.06.18-01.19.23:538][981]UATHelper: Packaging (Windows): Total script module initialization time: 0.28 s.
+[2026.06.18-01.19.23:593][985]UATHelper: Packaging (Windows): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2026.06.18-01.19.23:869][  5]UATHelper: Packaging (Windows): Executing commands...
+[2026.06.18-01.19.23:942][ 10]UATHelper: Packaging (Windows): Installed Sdk validity:
+[2026.06.18-01.19.23:942][ 10]UATHelper: Packaging (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.19041.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.26100.0, Allowed_AutoSdk=10.0.22621.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2026.06.18-01.19.23:942][ 10]UATHelper: Packaging (Windows): Scanning for envvar changes...
+[2026.06.18-01.19.23:942][ 10]UATHelper: Packaging (Windows): ... done! 
+[2026.06.18-01.19.23:942][ 10]UATHelper: Packaging (Windows): Cleaning Temp Paths...
+[2026.06.18-01.19.23:942][ 10]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2026.06.18-01.19.23:953][ 11]UATHelper: Packaging (Windows): Setting up ProjectParams for C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\SplinesZwimProject.uproject
+[2026.06.18-01.19.24:947][ 83]UATHelper: Packaging (Windows): ********** BUILD COMMAND STARTED **********
+[2026.06.18-01.19.24:958][ 84]UATHelper: Packaging (Windows): Running: C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\ThirdParty\DotNet\8.0.300\win-x64\dotnet.exe "C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" SplinesZwimProject Win64 Development -Project="C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\SplinesZwimProject.uproject" -Manifest="C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\Intermediate\Build\Manifest.xml"  -remoteini="C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject"  -skipdeploy  -log="C:\Users\franc\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.6\UBA-SplinesZwimProject-Win64-Development.txt"
+[2026.06.18-01.19.25:370][113]UATHelper: Packaging (Windows): Log file: C:\Users\franc\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.6\UBA-SplinesZwimProject-Win64-Development.txt
+[2026.06.18-01.19.25:628][131]UATHelper: Packaging (Windows): Using 'git status' to determine working set for adaptive non-unity build (C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM).
+[2026.06.18-01.19.25:660][134]UATHelper: Packaging (Windows): Creating makefile for SplinesZwimProject (.uproject file is newer)
+[2026.06.18-01.19.26:029][160]UATHelper: Packaging (Windows): Available x64 toolchains (1):
+[2026.06.18-01.19.26:029][160]UATHelper: Packaging (Windows):  * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2026.06.18-01.19.26:029][160]UATHelper: Packaging (Windows):     (Family=14.44.35207, FamilyRank=1, Version=14.44.35228, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2026.06.18-01.19.26:029][160]UATHelper: Packaging (Windows): Visual Studio 2022 compiler version 14.44.35228 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2026.06.18-01.19.26:528][196]UATHelper: Packaging (Windows): Parsing headers for SplinesZwimProject
+[2026.06.18-01.19.26:528][196]UATHelper: Packaging (Windows):   Running Internal UnrealHeaderTool "C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\SplinesZwimProject.uproject" "C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\Intermediate\Build\Win64\SplinesZwimProject\Development\SplinesZwimProject.uhtmanifest" -WarningsAsErrors -installed
+[2026.06.18-01.19.28:753][352]UATHelper: Packaging (Windows): Total of 5 written
+[2026.06.18-01.19.28:753][352]UATHelper: Packaging (Windows): Reflection code generated for SplinesZwimProject in 2.2320563 seconds
+[2026.06.18-01.19.32:380][612]UATHelper: Packaging (Windows): Writing manifest to C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\Intermediate\Build\Manifest.xml
+[2026.06.18-01.19.32:487][619]UATHelper: Packaging (Windows): Building SplinesZwimProject...
+[2026.06.18-01.19.32:487][619]UATHelper: Packaging (Windows): Using Visual Studio 2022 14.44.35228 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2026.06.18-01.19.32:487][619]UATHelper: Packaging (Windows): Warning: Visual Studio 2022 compiler is not a preferred version
+[2026.06.18-01.19.32:487][619]UATHelper: Packaging (Windows): Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2026.06.18-01.19.32:487][619]UATHelper: Packaging (Windows):   Executing up to 8 processes, one per physical core
+[2026.06.18-01.19.32:488][619]PackagingResults: Warning: Visual Studio 2022 compiler is not a preferred version
+[2026.06.18-01.19.32:498][620]UATHelper: Packaging (Windows): Using Unreal Build Accelerator local executor to run 5 action(s)
+[2026.06.18-01.19.32:508][621]UATHelper: Packaging (Windows):   Storage capacity 40Gb
+[2026.06.18-01.19.32:530][622]UATHelper: Packaging (Windows): ---- Starting trace: 260618_021932 ----
+[2026.06.18-01.19.32:530][622]UATHelper: Packaging (Windows): UbaSessionServer - Disable remote execution (remote sessions will finish current processes)
+[2026.06.18-01.19.32:540][623]UATHelper: Packaging (Windows): ------ Building 5 action(s) started ------
+[2026.06.18-01.19.35:216][815]UATHelper: Packaging (Windows): [1/5] Compile [x64] SplineActor.cpp
+[2026.06.18-01.19.46:638][256]UATHelper: Packaging (Windows): [2/5] Compile [x64] SplineMover.cpp
+[2026.06.18-01.19.46:638][256]UATHelper: Packaging (Windows): [3/5] Compile [x64] Module.SplinesZwimProject.gen.cpp
+[2026.06.18-01.19.46:638][256]UATHelper: Packaging (Windows): [4/5] Link [x64] SplinesZwimProject.exe
+[2026.06.18-01.19.46:887][257]UATHelper: Packaging (Windows): [5/5] WriteMetadata SplinesZwimProject.target (UBA disabled)
+[2026.06.18-01.19.46:887][257]UATHelper: Packaging (Windows): Trace written to file C:/Users/franc/AppData/Roaming/Unreal Engine/AutomationTool/Logs/C+Program+Files+Epic+Games+UE_5.6/UBA-SplinesZwimProject-Win64-Development.uba with size 4.6kb
+[2026.06.18-01.19.46:919][257]UATHelper: Packaging (Windows): Total time in Unreal Build Accelerator local executor: 14.42 seconds
+[2026.06.18-01.19.46:992][257]UATHelper: Packaging (Windows): Result: Succeeded
+[2026.06.18-01.19.46:992][257]UATHelper: Packaging (Windows): Total execution time: 21.96 seconds
+[2026.06.18-01.19.47:003][257]UATHelper: Packaging (Windows): Took 22,05s to run dotnet.exe, ExitCode=0
+[2026.06.18-01.19.47:013][257]UATHelper: Packaging (Windows): Build command time: 22.07 s
+[2026.06.18-01.19.47:013][257]UATHelper: Packaging (Windows): ********** BUILD COMMAND COMPLETED **********
+[2026.06.18-01.19.47:013][257]UATHelper: Packaging (Windows): ********** COOK COMMAND STARTED **********
+[2026.06.18-01.19.47:013][257]UATHelper: Packaging (Windows): Running UnrealEditor Cook for project C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\SplinesZwimProject.uproject
+[2026.06.18-01.19.47:013][257]UATHelper: Packaging (Windows): Commandlet log file is C:\Program Files\Epic Games\UE_5.6\Engine\Programs\AutomationTool\Saved\Cook-2026.06.18-02.19.47.txt
+[2026.06.18-01.19.47:013][257]UATHelper: Packaging (Windows): Running: C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor-Cmd.exe "C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\SplinesZwimProject.uproject" -run=Cook  -TargetPlatform=Windows  -unversioned -fileopenlog -abslog="C:\Program Files\Epic Games\UE_5.6\Engine\Programs\AutomationTool\Saved\Cook-2026.06.18-02.19.47.txt" -stdout -CrashForUAT -unattended -NoLogTimes
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogInit: Display: Running engine for game: SplinesZwimProject
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogTrace: Display: Control listening on port 35058
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : config="Development"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.6-CL-44394996"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : engineversion="5.6.1-44394996+++UE5+Release-5.6"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : os="Windows 11 (25H2) [10.0.26200.8655] "
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800X 8-Core Processor"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : asan="0"
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\franc\Documents\Unreal Projects\ZWIM\SplinesZWIM\SplinesZwimProject\SplinesZwimProject.uproject" -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog="C:\Program Files\Epic Games\UE_5.6\Engine\Programs\AutomationTool\Saved\Cook-2026.06.18-02.19.47.txt" -stdout -CrashForUAT -unattended -NoLogTimes""
+[2026.06.18-01.19.47:401][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : loginid="eb67e5064c45de93372486bf07cf9786"
+[2026.06.18-01.19.47:433][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : llm="0"
+[2026.06.18-01.19.47:433][258]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2026.06.18-01.19.47:518][259]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2026.06.18-01.19.47:571][259]UATHelper: Packaging (Windows): LogAudio: Display: Audio Device Manager not initializing due to all audio being disabled. If this is not intentional, please check command line arguments for "-nosound".
+[2026.06.18-01.19.47:571][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading VulkanPC ini files took 0.05 seconds
+[2026.06.18-01.19.47:571][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading Android ini files took 0.05 seconds
+[2026.06.18-01.19.47:571][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading Mac ini files took 0.05 seconds
+[2026.06.18-01.19.47:571][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading IOS ini files took 0.05 seconds
+[2026.06.18-01.19.47:571][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading Unix ini files took 0.05 seconds
+[2026.06.18-01.19.47:571][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading Windows ini files took 0.06 seconds
+[2026.06.18-01.19.47:571][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+[2026.06.18-01.19.47:592][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading VisionOS ini files took 0.06 seconds
+[2026.06.18-01.19.47:592][259]UATHelper: Packaging (Windows): LogAssetRegistry: Display: Asset registry cache read as 85.6 MiB from ../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Intermediate/CachedAssetRegistry_0.bin.
+[2026.06.18-01.19.47:741][259]UATHelper: Packaging (Windows): LogConfig: Display: Loading Linux ini files took 0.06 seconds
+[2026.06.18-01.19.47:857][260]UATHelper: Packaging (Windows): RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2026.06.18-01.19.47:857][260]UATHelper: Packaging (Windows): LogHAL: Display: Platform has ~ 32 GB [34265194496 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatASTC: Display: ASTCEnc version 5.0.1 library loaded
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.13
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.13.dll
+[2026.06.18-01.19.47:868][260]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2026.06.18-01.19.47:889][260]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_OpenXR'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_OpenXRClient'
+[2026.06.18-01.19.47:900][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.06.18-01.19.47:910][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.06.18-01.19.47:910][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.06.18-01.19.47:921][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.06.18-01.19.47:921][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2026.06.18-01.19.47:921][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2026.06.18-01.19.47:921][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2026.06.18-01.19.47:943][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2026.06.18-01.19.47:943][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.06.18-01.19.47:943][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2026.06.18-01.19.47:943][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.06.18-01.19.47:953][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.06.18-01.19.47:953][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.06.18-01.19.47:964][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.06.18-01.19.47:964][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.06.18-01.19.47:964][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2026.06.18-01.19.47:964][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.06.18-01.19.47:964][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.06.18-01.19.47:974][260]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Building Assets For Windows
+[2026.06.18-01.19.48:378][261]UATHelper: Packaging (Windows): LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.06.18-01.19.48:538][262]UATHelper: Packaging (Windows): LogObj: Display: Attempting to load config data for Default__SlateThemeManager before the Class has been constructed/registered/linked (likely during module loading or early startup). This will result in the load silently failing and should be fixed.
+[2026.06.18-01.19.48:538][262]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : verbatimrhiname="Null"
+[2026.06.18-01.19.48:538][262]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : rhiname="Null"
+[2026.06.18-01.19.48:538][262]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : rhifeaturelevel="SM6"
+[2026.06.18-01.19.48:538][262]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : shaderplatform="PCD3D_SM6"
+[2026.06.18-01.19.48:730][262]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2026.06.18-01.19.49:334][264]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1350 MiB)
+[2026.06.18-01.19.49:334][264]UATHelper: Packaging (Windows): LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2026.06.18-01.19.49:345][264]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+[2026.06.18-01.19.49:345][264]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: C:/Users/franc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.03ms. RandomReadSpeed=855.44MBs, RandomWriteSpeed=157.82MBs. Assigned SpeedClass 'Local'
+[2026.06.18-01.19.49:345][264]UATHelper: Packaging (Windows): LogUbaHorde: Display: UBA/Horde Configuration [Uba.Provider.Horde]: Not Enabled
+[2026.06.18-01.19.49:345][264]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Using 13 local workers for shader compilation
+[2026.06.18-01.19.49:345][264]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2026.06.18-01.19.49:825][266]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.06.18-01.19.49:825][266]UATHelper: Packaging (Windows): LogEditorDomain: Display: EditorDomain is Disabled
+[2026.06.18-01.19.50:080][266]UATHelper: Packaging (Windows): LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches ../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Intermediate/CachedAssetRegistry_*.bin.
+[2026.06.18-01.19.50:080][266]UATHelper: Packaging (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2026.06.18-01.19.50:102][266]UATHelper: Packaging (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2026.06.18-01.19.50:112][266]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness because of a recursive sync load
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec because of a recursive sync load
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_M because of a recursive sync load
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_N because of a recursive sync load
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade because of a recursive sync load
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:123][266]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDiffuse because of a recursive sync load
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components because of a recursive sync load
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultPostProcessMaterial because of a recursive sync load
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultLightFunctionMaterial because of a recursive sync load
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/WorldGridMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDeferredDecalMaterial because of a recursive sync load
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/WorldGridMaterial because of a recursive sync load
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2026.06.18-01.19.50:133][267]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2026.06.18-01.19.50:154][267]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2026.06.18-01.19.50:154][267]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.06.18-01.19.50:154][267]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2026.06.18-01.19.50:154][267]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.06.18-01.19.50:368][267]UATHelper: Packaging (Windows): LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2026.06.18-01.19.50:368][267]UATHelper: Packaging (Windows): LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.06.18-01.19.50:452][267]UATHelper: Packaging (Windows): LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.06.18-01.19.50:452][267]UATHelper: Packaging (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.06.18-01.19.51:522][271]UATHelper: Packaging (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2.782 ms
+[2026.06.18-01.19.51:522][271]UATHelper: Packaging (Windows): LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.06.18-01.19.51:870][272]UATHelper: Packaging (Windows): LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.06.18-01.19.51:870][272]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.06.18-01.19.52:030][272]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): LogCook: Display: CookProcessCount=1. CookMultiprocess is disabled and the cooker is running as a single process.
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): LogCook: Display: CookSettings for Memory:
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): 	MemoryMaxUsedVirtual 0MiB
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): 	MemoryMaxUsedPhysical 0MiB
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): 	MemoryMinFreeVirtual 2048MiB
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): 	MemoryMinFreePhysical 2048MiB
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): 	MemoryTriggerGCAtPressureLevel None
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): 	SoftGCMemoryUseTrigger disabled
+[2026.06.18-01.19.52:125][272]UATHelper: Packaging (Windows): 	SoftGCTimeBudgetTrigger enabled (0.05 budget, 30s min period)
+[2026.06.18-01.19.52:200][273]UATHelper: Packaging (Windows): LogCook: Display: SkipOnlyEditorOnly is enabled, unsolicited packages will not be cooked unless they are referenced from the cooked version of the instigator package.
+[2026.06.18-01.19.52:707][274]UATHelper: Packaging (Windows): LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2026.06.18-01.19.52:728][274]UATHelper: Packaging (Windows): LogEditorDomain: Display: Class /script/PropertyBindingUtilsModule.PropertyBindingPropertyAccess is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+[2026.06.18-01.19.52:728][274]UATHelper: Packaging (Windows): 	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2026.06.18-01.19.52:781][274]UATHelper: Packaging (Windows): LogEditorDomain: Display: Cycle detected in parents of class /Script/RigVMDeveloper.RigVMUnitNode. Allow flags for editordomain and incremental cooking will be invalid.
+[2026.06.18-01.19.52:781][274]UATHelper: Packaging (Windows): LogZenStore: Display: Establishing oplog 'SplinesZwimProject.475fcb49/EditorDomain'
+[2026.06.18-01.19.52:781][274]UATHelper: Packaging (Windows): LogZenStore: Display: Zen project 'SplinesZwimProject.475fcb49' already exists
+[2026.06.18-01.19.52:781][274]UATHelper: Packaging (Windows): LogZenStore: Display: Zen oplog 'SplinesZwimProject.475fcb49/EditorDomain' already exists
+[2026.06.18-01.19.52:802][275]UATHelper: Packaging (Windows): LogCook: Display: Waiting for Asset Registry
+[2026.06.18-01.19.53:225][276]UATHelper: Packaging (Windows): LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2026.06.18-01.19.53:247][276]UATHelper: Packaging (Windows): LogAssetRegistry: Display: Asset registry cache written as 85.6 MiB to ../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Intermediate/CachedAssetRegistry_*.bin
+[2026.06.18-01.19.53:377][276]UATHelper: Packaging (Windows): LogCook: Display: FULL COOK: Neither -legacyiterative nor -cookincremental were specified. Deleting previously cooked packages for platform Windows and recooking all packages discovered in the current cook.
+[2026.06.18-01.19.53:377][276]UATHelper: Packaging (Windows): LogCook: Display: Sandbox cleanup took 0.078 seconds for platforms Windows
+[2026.06.18-01.19.55:214][282]UATHelper: Packaging (Windows): LogCook: Display: Compiling global changed shaders for platform 'Windows'
+[2026.06.18-01.19.55:214][282]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display:
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM6-PCD3D_SM6) Stats:
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 501 (50100.00%)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shaders: 10691, Unique Shaders: 10691 (100.00%)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shader Size: 137.30mb, Unique Shaders Size: 137.30mb (100.00%)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: === Extended info:
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 4
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 583
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display:     1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Unique shaders itemization (sorted by compressed size):
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_Compute: 7889 shaders (73.79%), compressed size: 96.63 MB (12.54 KB avg per shader), uncompressed size: 126.21 MB (16.38 KB avg per shader)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_Pixel: 1935 shaders (18.10%), compressed size: 20.76 MB (10.99 KB avg per shader), uncompressed size: 27.32 MB (14.46 KB avg per shader)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_RayGen: 707 shaders (6.61%), compressed size: 19.44 MB (28.15 KB avg per shader), uncompressed size: 26.78 MB (38.78 KB avg per shader)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_Vertex: 129 shaders (1.21%), compressed size: 0.34 MB (2.71 KB avg per shader), uncompressed size: 0.42 MB (3.36 KB avg per shader)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_RayHitGroup: 17 shaders (0.16%), compressed size: 0.06 MB (3.45 KB avg per shader), uncompressed size: 0.07 MB (4.04 KB avg per shader)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_RayMiss: 8 shaders (0.07%), compressed size: 0.04 MB (5.65 KB avg per shader), uncompressed size: 0.06 MB (7.93 KB avg per shader)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_RayCallable: 2 shaders (0.02%), compressed size: 0.01 MB (7.29 KB avg per shader), uncompressed size: 0.02 MB (9.12 KB avg per shader)
+[2026.06.18-01.19.56:403][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_Geometry: 3 shaders (0.03%), compressed size: 0.01 MB (2.15 KB avg per shader), uncompressed size: 0.01 MB (3.31 KB avg per shader)
+[2026.06.18-01.19.56:413][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_WorkGraphComputeNode: 1 shaders (0.01%), compressed size: 0.00 MB (2.75 KB avg per shader), uncompressed size: 0.00 MB (3.35 KB avg per shader)
+[2026.06.18-01.19.56:413][285]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-Global-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display:
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5-PCD3D_SM5) Stats:
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 340 (34000.00%)
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shaders: 4118, Unique Shaders: 4106 (99.71%)
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Total Shader Size: 12.47mb, Unique Shaders Size: 12.47mb (99.96%)
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: === Extended info:
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 303
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 2
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Unique shaders itemization (sorted by compressed size):
+[2026.06.18-01.19.56:467][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_Pixel: 1686 shaders (41.06%), compressed size: 6.42 MB (3.90 KB avg per shader), uncompressed size: 31.07 MB (18.87 KB avg per shader)
+[2026.06.18-01.19.56:477][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_Compute: 2314 shaders (56.36%), compressed size: 5.98 MB (2.65 KB avg per shader), uncompressed size: 23.36 MB (10.34 KB avg per shader)
+[2026.06.18-01.19.56:477][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_Vertex: 104 shaders (2.53%), compressed size: 0.06 MB (0.60 KB avg per shader), uncompressed size: 0.13 MB (1.29 KB avg per shader)
+[2026.06.18-01.19.56:477][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: SF_Geometry: 2 shaders (0.05%), compressed size: 0.00 MB (0.49 KB avg per shader), uncompressed size: 0.00 MB (1.55 KB avg per shader)
+[2026.06.18-01.19.56:477][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/franc/Documents/Unreal Projects/ZWIM/SplinesZWIM/SplinesZwimProject/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+[2026.06.18-01.19.56:499][286]UATHelper: Packaging (Windows): LogShaderLibrary: Display: =================
+[2026.06.18-01.19.56:499][286]UATHelper: Packaging (Windows): LogCook: Display: Discovering localized assets for cultures: en
+[2026.06.18-01.19.56:499][286]UATHelper: Packaging (Windows): LogCook: Display: Found 0 localized assets
+[2026.06.18-01.19.56:499][286]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 0 Packages Remain 387 Total 387
+[2026.06.18-01.19.57:051][287]UATHelper: Packaging (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=224, VirtualMemory=1741MiB, VirtualMemoryAvailable=6164MiB
+[2026.06.18-01.19.57:051][287]UATHelper: Packaging (Windows): LogWorldPartition: Display: [Cook] Gathering packages to cook from generators for owner object World /Game/Maps/SplinesLvl.SplinesLvl.
+[2026.06.18-01.19.57:051][287]UATHelper: Packaging (Windows): LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.18-01.19.57:051][287]UATHelper: Packaging (Windows): LogWorldPartition: Display: WorldPartition initialize took 5.137 ms
+[2026.06.18-01.19.57:061][287]UATHelper: Packaging (Windows): LogWorldPartition: Display: GenerateStreaming for 'SplinesLvl' started...
+[2026.06.18-01.19.57:061][287]UATHelper: Packaging (Windows): LogWorldPartition: Display: GenerateStreaming for 'SplinesLvl' took 7.266 ms
+[2026.06.18-01.19.57:061][287]UATHelper: Packaging (Windows): LogWorldPartition: Display: [Cook] Gathered 7 packages to generate from 1 Generators.
+[2026.06.18-01.19.57:061][287]UATHelper: Packaging (Windows): LogWorldPartition: Display: [Cook] Sending 7 packages to be generated.
+[2026.06.18-01.19.57:061][287]UATHelper: Packaging (Windows): LogWorldPartition: Display: [Cook] Debug(GetGenerateList) : OwnerObject=World /Game/Maps/SplinesLvl.SplinesLvl bForceInitializedWorld=1 bInitializedPhysicsSceneForSave=1
+[2026.06.18-01.19.57:061][287]UATHelper: Packaging (Windows): LogCook: Display: Splitting Package /Game/Maps/SplinesLvl with splitter FWorldPartitionCookPackageSplitter acting on object World /Game/Maps/SplinesLvl.SplinesLvl.
+[2026.06.18-01.19.57:188][288]UATHelper: Packaging (Windows): LogWorldPartition: Display: [Cook][PopulateGeneratorPackage] Processing 7 packages
+[2026.06.18-01.19.57:433][288]UATHelper: Packaging (Windows): LogWorldPartition: Display: [Cook][PopulateGeneratorPackage] Gathered 71 modified packages
+[2026.06.18-01.19.57:433][288]UATHelper: Packaging (Windows): LogCook: Display: Garbage collection triggered (Soft). Triggered by conditions:
+[2026.06.18-01.19.57:433][288]UATHelper: Packaging (Windows):   CookSettings.SoftGCTimeTrigger: Periodic triggering of SoftGC: No duration data.
+[2026.06.18-01.19.57:527][289]UATHelper: Packaging (Windows): LogCookCommandlet: Display: GarbageCollection... (Periodic GC)
+[2026.06.18-01.19.57:538][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Building static mesh Shape_Pipe2 (Required Memory Estimate: 0.342438 MB)...
+[2026.06.18-01.19.57:538][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Building static mesh R_eye_flashpoint (Required Memory Estimate: 0.414556 MB)...
+[2026.06.18-01.19.57:538][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Building static mesh L_eye_Flashpoint (Required Memory Estimate: 0.414556 MB)...
+[2026.06.18-01.19.57:538][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Building static mesh L_eye_lens (Required Memory Estimate: 2.640741 MB)...
+[2026.06.18-01.19.57:538][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Building static mesh Fish_Body (Required Memory Estimate: 8.327921 MB)...
+[2026.06.18-01.19.57:538][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Building static mesh Left_Eye (Required Memory Estimate: 1.332053 MB)...
+[2026.06.18-01.19.57:633][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Building static mesh tongue (Required Memory Estimate: 0.32705 MB)...
+[2026.06.18-01.19.57:675][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Building static mesh Cube1 (Required Memory Estimate: 0.083707 MB)...
+[2026.06.18-01.19.57:793][289]UATHelper: Packaging (Windows): LogStaticMesh: Display: Waiting for static meshes to be ready 2/6 (/Game/Resources/Fish/L_eye_Flashpoint) ...
+[2026.06.18-01.19.57:803][290]UATHelper: Packaging (Windows): LogStaticMesh: Display: Waiting for static meshes to be ready 3/6 (/Game/Resources/Fish/R_eye_flashpoint) ...
+[2026.06.18-01.19.57:951][290]UATHelper: Packaging (Windows): LogStaticMesh: Display: Waiting for static meshes to be ready 4/6 (/Game/Resources/Fish/L_eye_lens) ...
+[2026.06.18-01.19.58:205][291]UATHelper: Packaging (Windows): LogStaticMesh: Display: Waiting for static meshes to be ready 5/6 (/Game/Resources/Fish/Fish_Body) ...
+[2026.06.18-01.19.58:279][291]UATHelper: Packaging (Windows): LogPhysics: Warning: Scale for /Game/Maps/SplinesLvl/_Generated_/AYTWNXXQ6T1F8NJTLOWAKUS7X.SplinesLvl:PersistentLevel.BP_Sign_C_UAID_C87F545C8B47D3E502_1485968456.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2026.06.18-01.19.58:279][291]UATHelper: Packaging (Windows): LogPhysics: Warning: Scale for /Game/Maps/SplinesLvl/_Generated_/AYTWNXXQ6T1F8NJTLOWAKUS7X.SplinesLvl:PersistentLevel.BP_Sign_C_UAID_C87F545C8B47D3E502_1485968456.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2026.06.18-01.19.58:453][291]PackagingResults: Warning: Scale for /Game/Maps/SplinesLvl/_Generated_/AYTWNXXQ6T1F8NJTLOWAKUS7X.SplinesLvl:PersistentLevel.BP_Sign_C_UAID_C87F545C8B47D3E502_1485968456.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2026.06.18-01.19.58:453][291]PackagingResults: Warning: Scale for /Game/Maps/SplinesLvl/_Generated_/AYTWNXXQ6T1F8NJTLOWAKUS7X.SplinesLvl:PersistentLevel.BP_Sign_C_UAID_C87F545C8B47D3E502_1485968456.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2026.06.18-01.19.58:608][292]UATHelper: Packaging (Windows): LogPhysics: Warning: Scale for /Game/Maps/SplinesLvl/_Generated_/AYTWNXXQ6T1F8NJTLOWAKUS7X.SplinesLvl:PersistentLevel.BP_Sign_C_UAID_C87F545C8B47D3E502_1485968456.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2026.06.18-01.19.58:735][292]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for MI_Manny_02_New in PCD3D_SM6, Default, SM6, Game (DDC key hash: 1a631f93a2156ae1c9e24b62e206b5c145cca520), compiling.
+[2026.06.18-01.19.58:746][292]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 43 Packages Remain 472 Total 515
+[2026.06.18-01.19.58:787][292]PackagingResults: Warning: Scale for /Game/Maps/SplinesLvl/_Generated_/AYTWNXXQ6T1F8NJTLOWAKUS7X.SplinesLvl:PersistentLevel.BP_Sign_C_UAID_C87F545C8B47D3E502_1485968456.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2026.06.18-01.19.58:831][293]UATHelper: Packaging (Windows): LogWorldPartition: Display: [Cook] Debug(TearDown): OwnerObject=World /Game/Maps/SplinesLvl.SplinesLvl bForceInitializedWorld=1 bInitializedPhysicsSceneForSave=1
+[2026.06.18-01.19.58:883][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial1 in PCD3D_SM6, Default, SM6, Game (DDC key hash: a42d123975d27e839b0ca86e96b6bf03fb44e74e), compiling.
+[2026.06.18-01.19.58:974][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for Flash_Point in PCD3D_SM6, Default, SM6, Game (DDC key hash: 88390d6ea2ea91e55b06d45106893c4b585a1a06), compiling.
+[2026.06.18-01.19.58:975][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial1 in PCD3D_SM5, Default, SM5, Game (DDC key hash: 07d278fd2d47d14c89b6029245eaa297a67268ee), compiling.
+[2026.06.18-01.19.58:975][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Red in PCD3D_SM6, Default, SM6, Game (DDC key hash: c8a47901abd43c74e5685e0887ad0e6cd0cd413d), compiling.
+[2026.06.18-01.19.58:975][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Green in PCD3D_SM6, Default, SM6, Game (DDC key hash: 5307471d85c814beff368edeaa2d69ef2b6ae02b), compiling.
+[2026.06.18-01.19.58:979][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Yellow in PCD3D_SM6, Default, SM6, Game (DDC key hash: c5bf831426bd7f174773bb5ef3fff79d6a645274), compiling.
+[2026.06.18-01.19.58:979][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Brown in PCD3D_SM6, Default, SM6, Game (DDC key hash: 6dc339ade891ed66c3e14aa6b017e8cffd6500f4), compiling.
+[2026.06.18-01.19.58:990][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Template_Master in PCD3D_SM6, Default, SM6, Game (DDC key hash: 9eabf57ec63444d34f303415e7095f3e7cda5dba), compiling.
+[2026.06.18-01.19.58:990][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Orange in PCD3D_SM6, Default, SM6, Game (DDC key hash: 9943924e5c18b6069471322b91262628a8f5927e), compiling.
+[2026.06.18-01.19.58:990][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for Flash_Point in PCD3D_SM5, Default, SM5, Game (DDC key hash: 32a3c4b24665c375c4b7d38520e5748bd5f54ecd), compiling.
+[2026.06.18-01.19.59:128][293]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for Eye_Lens in PCD3D_SM6, Default, SM6, Game (DDC key hash: 4e1e3d50a76ba55a9b46b96ce7c3ca1e47458eee), compiling.
+[2026.06.18-01.19.59:202][294]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for ArrowMaterial in PCD3D_SM6, Default, SM6, Game (DDC key hash: bdc09de17ce318576de98beb763dfdc36c6b14d3), compiling.
+[2026.06.18-01.19.59:202][294]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Red in PCD3D_SM5, Default, SM5, Game (DDC key hash: 45d502a482a8bfa85d505529c8bc7e7ff9d80cbe), compiling.
+[2026.06.18-01.19.59:202][294]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Green in PCD3D_SM5, Default, SM5, Game (DDC key hash: 48fee6a0bb0b3d5fe68fd6d879d5af7a205ae9b5), compiling.
+[2026.06.18-01.19.59:202][294]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Yellow in PCD3D_SM5, Default, SM5, Game (DDC key hash: ca73b27d207f2cf65592fc4f83b0123ad41ca8fa), compiling.
+[2026.06.18-01.19.59:202][294]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Brown in PCD3D_SM5, Default, SM5, Game (DDC key hash: 2a062fe132225d4bacba8983c96b1b3527b668b4), compiling.
+[2026.06.18-01.19.59:202][294]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Template_Master in PCD3D_SM5, Default, SM5, Game (DDC key hash: ee1b8b587b2ebdea1330a165b4193341f700f720), compiling.
+[2026.06.18-01.19.59:202][294]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Basic_Wall_Orange in PCD3D_SM5, Default, SM5, Game (DDC key hash: 61adc43d819f6ac17aa066e2ff90ed7cc3e95e5c), compiling.
+[2026.06.18-01.19.59:277][294]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for Eye_Lens in PCD3D_SM5, Default, SM5, Game (DDC key hash: 93eca8baedae0a9b0e0f7886e0f81d0b8a0597ff), compiling.
+[2026.06.18-01.19.59:570][295]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for Fish_01 in PCD3D_SM6, Default, SM6, Game (DDC key hash: 64ca3062f2d4e5098b51d8fe62281bdca883c41c), compiling.
+[2026.06.18-01.19.59:759][295]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Mannequin in PCD3D_SM6, Default, SM6, Game (DDC key hash: e5a4c084dd5c8c4e4201ee6eb35b1773b5525bf9), compiling.
+[2026.06.18-01.20.00:852][299]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for Fish_01 in PCD3D_SM5, Default, SM5, Game (DDC key hash: 912a00a5401006b7726b4d3632dcfde73f5e34b6), compiling.
+[2026.06.18-01.20.03:311][306]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 286 Packages Remain 268 Total 554
+[2026.06.18-01.20.03:425][306]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 365 Packages Remain 189 Total 554
+[2026.06.18-01.20.03:502][307]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for M_Mannequin in PCD3D_SM5, Default, SM5, Game (DDC key hash: 9d70ee99d72bd09fd3f158b86034e378256adb5f), compiling.
+[2026.06.18-01.20.03:502][307]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.06.18-01.20.04:117][308]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.06.18-01.20.05:315][312]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for MI_Manny_02_New in PCD3D_SM5, Default, SM5, Game (DDC key hash: 2781792efa634d8a7a0206b088a88a136bcf5211), compiling.
+[2026.06.18-01.20.06:234][315]UATHelper: Packaging (Windows): LogCook: Display: Cooked packages 552 Packages Remain 2 Total 554
+[2026.06.18-01.20.07:309][318]UATHelper: Packaging (Windows): LogMaterial: Display: Missing cached shadermap for ArrowMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 9f7ef4ad8a509c4c5ba94e40d719ee92a70f756e), compiling.
