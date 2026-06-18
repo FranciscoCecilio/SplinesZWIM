@@ -7,16 +7,15 @@ and UI wiring stay in Blueprint. This keeps the system
 designer-friendly without sacrificing structure.
 
 The overlap-triggered UI was a conscious choice over a persistent HUD - 
-it allows for free movement and sight, which felt natural for a 
-poolside training context and demonstrates spatial UI thinking.
+it allows for free movement and sight, which felt natural from a UX perspective.
 
 Trade-offs
 Using EditInstanceOnly for StartDistance and LinkedMovers means setup 
 is manual per level instance. A data-driven approach (e.g. a DataAsset 
-per course or XML comfig file) would scale better but was out of scope for this exercise.
+per course) would scale better but was out of scope for this exercise.
 
 What I Would Improve
 With more time I would add a DataAsset per lane to define speed, 
 number of fish, and spline assignment - making new courses addable 
 without touching Blueprints. I would also explore Niagara wake trails 
-attached to each mover for richer swimming feedback.
+attached to each mover for richer swimming feedback. 
